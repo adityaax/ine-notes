@@ -47,7 +47,7 @@ tshark -r HTTP_traffic.pcap | wc -l
 	30418 # lines in the file
 ```
 
-![tshark -r HTTP_traffic.pcap](.gitbook/assets/tshark_pcap.gif)
+![tshark -r HTTP_traffic.pcap](.gitbook/assets/2025-04-07_22-05-18_970.png)
 
 - Read first 100 packets from the `.pcap` file
 
