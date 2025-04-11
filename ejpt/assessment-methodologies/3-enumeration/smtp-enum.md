@@ -161,6 +161,7 @@ mail from: admin@attacker.xyz
 rcpt to: root@openmailbox.xyz
 data
 Subject: Hello Root
+
 Hello,
 This is a fake mail sent using telnet command.
 From admin
